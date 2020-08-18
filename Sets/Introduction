@@ -1,0 +1,9 @@
+Sets: A set is a collection of things(objects) that are referred to as the elements of the set.
+
+Example: A={a, &, 9, emoji, car, (any object), ---}
+        -> a, &, 9, emoji, car are the elements of set A.
+        -> Name of a set usually capital letters.
+        -> set braces should be {}.
+        -> (---) is called ellipsis and meaning as the set elements so on.
+        -> 1 E A
+              

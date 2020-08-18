@@ -1,0 +1,10 @@
+Natural Numbers N:
+                  Example: 1,2,3,4
+Integers Z
+                  Example: -3,-2,-1,0,1,2,3
+Rational Numbers Q: 4/2, 1/2
+Irrational Numbers Q: pai(3.1416), e.....
+Real Numbers R: Both rational and Irrational Numbers
+Imaginary Numbers I: i^2= -1
+Complex Numbers C: combination of real and Imaginary Numbers.
+Relation: C(R(Q(Z(N)). Q).I)

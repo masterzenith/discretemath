@@ -1,0 +1,40 @@
+Axiom of Extension: a set is determined by what its elements are-not the order in which they
+                    might be listed or the fact that some elements might be listed more than
+                    once.
+
+Set-Builder Notation: The set with all the shapes such that the shapes are blue
+{x | x = y}= set Builder Notation
+
+{x | x >0}
+{x E A | x^2=4}
+
+Types of Sets:
+-> Universal Set U
+-> Empty Set -doesn't have anything in it
+-> Singleton Set -only have one element
+-> Finite Set -finite numbers of elements
+-> Infinite Set -infinite numbers of elements
+-> Subset - B is a subset of A set.
+
+cardinal number of a set
+A = set
+n(A) = How many elements of this set
+Equivalent set = same number of elements
+Equal set: same elements
+
+Subsets: If A and B are sets, then A is called a subset of B, written A.Subset(B),
+        if and only if every element of A is also an element of B.
+Proper Subsets: at least one more element that is not in A but in B.
+
+Power Sets: Power set of A, denoted P(A), is the set of all Subsets of A.
+Power sets is 2^n of its elements
+
+Ordered Pairs: the elements order has to be the same
+        Ordered n-tuples: (x1,x2,x3,x4,....,xn) = (y1,y2,y3,y4,.....,yn)
+        (a,b) Ordered pair     Ordered 2-tuple
+        (a,b,c) Ordered triple Ordered 3-tuple
+
+Cartesian Product: Given sets A and B, the Cartesian Product of A and B, denoted
+                  A*B and read "A cross B," is the set of all Ordered pairs(a,b),
+                  where a is in A and b is in B
+                  [A*B={(a,b)|aEA and bEB}]
